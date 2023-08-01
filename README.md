@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infinity-saad
-- 👀 I’m interested in (c++ unreal engine)game development and blockchain programming
-- 🌱 I’m currently learning solidity
+- 👀 I’m interested in (c++ unreal engine)game development and level design
+- 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me on my mail saheedjimoh046@gmail.com
 And my mobile +2347011553588
